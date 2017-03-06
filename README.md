@@ -1,5 +1,5 @@
 # Global Weisfeiler-Lehmann Kernel ###
-Source code for our ICML 2016 paper "Global Weisfeiler-Lehman Graph Kernels."
+Source code for our paper "Global Weisfeiler-Lehman Graph Kernels."
 
 ## Compile
 Using `cmake` you can simply type `cmake cmake-build-debug`, otherwise (using `gcc`)
