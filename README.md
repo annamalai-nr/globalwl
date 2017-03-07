@@ -9,7 +9,7 @@ $ g++ main.cpp src/.* -std=c++11 -o wlglobal -O2
 ```
 
 ## Usage
-You can select the kernel and paramters in `main.cpp`.
+You can select the kernel and parameters in `main.cpp`.
 
 ## More Data Sets
 See [Benchmark Data Sets for Graph Kernels](http://graphkernels.cs.tu-dortmund.de) for more data sets.
