@@ -7,6 +7,7 @@ Using `cmake` you can simply type `cmake cmake-build-debug`, otherwise (using `g
 ```Bash
 $ g++ main.cpp src/.* -std=c++11 -o wlglobal -O2
 ```
+In order to compile, you need a recent version of [Eigen 3](http://eigen.tuxfamily.org/index.php?title=Main_Page) installed on your system.
 
 ## Usage
 You can select the kernel and parameters in `main.cpp`.
